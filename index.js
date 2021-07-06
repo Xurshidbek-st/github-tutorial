@@ -48,3 +48,4 @@ if (d > 0) {
   let y = ((-b + d ** 0.5) / 2) * a;
   console.log(x, y);
 } else console.log("NO");
+console.log(b);
